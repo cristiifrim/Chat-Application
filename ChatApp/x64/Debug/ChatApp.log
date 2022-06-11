@@ -1,0 +1,5 @@
+﻿  Reading Qt configuration (D:/QT/6.3.0/msvc2019_64/bin/qmake)
+  ChatWindow.cpp
+  moc_ChatWindow.cpp
+  LINK : C:\Users\Cristi Ifrim\source\repos\ChatApp\x64\Debug\ChatApp.exe not found or not built by the last incremental link; performing full link
+  ChatApp.vcxproj -> C:\Users\Cristi Ifrim\source\repos\ChatApp\x64\Debug\ChatApp.exe
